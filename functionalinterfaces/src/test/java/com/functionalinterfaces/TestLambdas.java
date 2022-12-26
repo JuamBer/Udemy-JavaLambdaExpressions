@@ -3,6 +3,7 @@ package com.functionalinterfaces;
 import static org.junit.Assert.*;
 
 import java.util.function.BiPredicate;
+import java.util.function.Consumer;
 import java.util.function.IntUnaryOperator;
 import java.util.function.LongBinaryOperator;
 import java.util.function.Predicate;
